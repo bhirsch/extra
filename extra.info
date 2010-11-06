@@ -1,0 +1,6 @@
+; $Id $
+name = Extra 
+description = Provides an administrative tool enabling User 1 to hide/expose feature modules to users who have permission to administer feature modules.
+core = 6.x
+version = "6.x-0.0"
+project = "SaaS"
